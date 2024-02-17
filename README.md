@@ -30,4 +30,4 @@ The dataset used for this task is the Titanic dataset, which contains informatio
 - Seaborn
 
 ## Contributors
-- Aryan Rawat ([aryanraw](https://github.com/aryanraw))
+- Aryan Singh Rawat ([aryanraw](https://github.com/aryanraw))
